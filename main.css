@@ -1,0 +1,17 @@
+.hh{
+    color:#F2AA4CFF ;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.product-card{
+    border: 1px solid gray;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin: 8px;
+    width: 220px;
+    text-align: center;
+
+}
